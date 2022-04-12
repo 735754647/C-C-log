@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(C:\Users\admin\Downloads\log4cxx\apache-log4cxx-0.10.0\projects\x64\Debug\log4cxx.dll) 与 Linker 的 OutputFile 属性值(C:\Users\admin\Downloads\log4cxx\apache-log4cxx-0.10.0\projects\Debug\log4cxx.dll)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+    正在创建库 .\Debug\log4cxx.lib 和对象 .\Debug\log4cxx.exp
+  log4cxx.vcxproj -> C:\Users\admin\Downloads\log4cxx\apache-log4cxx-0.10.0\projects\x64\Debug\log4cxx.dll

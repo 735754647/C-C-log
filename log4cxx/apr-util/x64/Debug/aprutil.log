@@ -1,0 +1,70 @@
+﻿  apr_brigade.c
+c:\users\admin\downloads\log4cxx\apr-util\buckets\apr_brigade.c(126): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\downloads\log4cxx\apr-util\buckets\apr_brigade.c(147): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\downloads\log4cxx\apr-util\buckets\apr_brigade.c(345): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  apr_buckets.c
+  apr_buckets_alloc.c
+  apr_buckets_eos.c
+  apr_buckets_file.c
+  apr_buckets_flush.c
+  apr_buckets_heap.c
+  apr_buckets_mmap.c
+  apr_buckets_pipe.c
+  apr_buckets_pool.c
+  apr_buckets_refcount.c
+  apr_buckets_simple.c
+  apr_buckets_socket.c
+  apr_md4.c
+  apr_md5.c
+c:\users\admin\downloads\log4cxx\apr-util\crypto\apr_md5.c(689): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  apr_sha1.c
+  getuuid.c
+  uuid.c
+  apr_dbd.c
+  apr_dbd_pgsql.c
+  正在生成代码...
+  正在编译...
+  apr_dbd_sqlite2.c
+  apr_dbd_sqlite3.c
+  apr_dbm.c
+  apr_dbm_berkeleydb.c
+  apr_dbm_gdbm.c
+  apr_dbm_sdbm.c
+c:\users\admin\downloads\log4cxx\apr-util\dbm\apr_dbm_sdbm.c(142): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\dbm\apr_dbm_sdbm.c(160): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\dbm\apr_dbm_sdbm.c(161): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\dbm\apr_dbm_sdbm.c(173): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\dbm\apr_dbm_sdbm.c(185): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\dbm\apr_dbm_sdbm.c(219): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  sdbm.c
+  sdbm_hash.c
+  sdbm_lock.c
+  sdbm_pair.c
+c:\users\admin\downloads\log4cxx\apr-util\dbm\sdbm\sdbm_pair.c(186): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  apr_base64.c
+c:\users\admin\downloads\log4cxx\apr-util\encoding\apr_base64.c(119): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\encoding\apr_base64.c(155): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\encoding\apr_base64.c(267): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  apr_hooks.c
+  apr_ldap_init.c
+  apr_ldap_option.c
+  apr_ldap_url.c
+  apr_date.c
+  apr_queue.c
+  apr_reslist.c
+  apr_rmm.c
+  apu_version.c
+  正在生成代码...
+  正在编译...
+  apr_strmatch.c
+c:\users\admin\downloads\log4cxx\apr-util\strmatch\apr_strmatch.c(101): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\strmatch\apr_strmatch.c(106): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\strmatch\apr_strmatch.c(112): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  apr_uri.c
+  xlate.c
+  apr_xml.c
+c:\users\admin\downloads\log4cxx\apr-util\xml\apr_xml.c(386): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(C:\Users\admin\Downloads\log4cxx\apache-log4cxx-0.10.0\projects\x64\Debug\aprutil.lib) 与 Library 的 OutputFile 属性值(C:\Users\admin\Downloads\log4cxx\apr-util\LibD\aprutil-1.lib)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(aprutil) 与 Library 的 OutputFile 属性值(aprutil-1)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+  aprutil.vcxproj -> C:\Users\admin\Downloads\log4cxx\apache-log4cxx-0.10.0\projects\x64\Debug\aprutil.lib

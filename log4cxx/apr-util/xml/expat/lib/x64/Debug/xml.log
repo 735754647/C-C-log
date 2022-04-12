@@ -1,0 +1,31 @@
+﻿  xmlparse.c
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1173): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1175): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1184): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1197): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1211): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1245): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1252): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1260): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1261): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1652): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1822): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1827): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1847): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(1856): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(2236): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(2245): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(2820): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(3204): warning C4244: “+=”: 从“__int64”转换到“unsigned int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(3702): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(3707): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(4491): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmlparse.c(4502): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  xmlrole.c
+  xmltok.c
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmltok_impl.c(1707): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmltok_impl.c(1707): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\admin\downloads\log4cxx\apr-util\xml\expat\lib\xmltok_impl.c(1707): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(C:\Users\admin\Downloads\log4cxx\apache-log4cxx-0.10.0\projects\x64\Debug\xml.lib) 与 Library 的 OutputFile 属性值(C:\Users\admin\Downloads\log4cxx\apr-util\xml\expat\lib\LibD\xml.lib)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+  xml.vcxproj -> C:\Users\admin\Downloads\log4cxx\apache-log4cxx-0.10.0\projects\x64\Debug\xml.lib
